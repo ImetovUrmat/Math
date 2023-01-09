@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Math</string>
+    <string name="r">Введите второе число:</string>
+    <string name="t">Введите число:</string>
+    <string name="e">плюс</string>
+    <string name="w">минус</string>
+    <string name="f">деление</string>
+    <string name="g">умножение</string>
+    <string name="_0">0</string>
+</resources>
